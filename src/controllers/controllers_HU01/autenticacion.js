@@ -7,6 +7,8 @@ import { consultarEmpleados } from "../../sevice/service_HU01/service__HU01.js";
     
     botonInicioSesion.addEventListener('click', () => {
 
+        const regex = /^[0-9]+$/
+
         const URL = "http://localhost:8080/api/empleado"
 
         consultarEmpleados(URL).then((respuestaBack) => {
@@ -20,7 +22,7 @@ import { consultarEmpleados } from "../../sevice/service_HU01/service__HU01.js";
             usuario.numeroIdentificacion == inputNumeroUsuario
         );
 
-        if (usuarioExistente) {
+        if (usuarioExistente && regex.test(inputNumeroUsuario)) {
             console.log(usuarioExistente);
             sesion(usuarioExistente);
         }
