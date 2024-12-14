@@ -1,0 +1,1115 @@
+[33mcommit 8ec92be8bd86086112950bf76e63f481bbd3de43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Merge: 582629d 673a371
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Dec 14 15:43:16 2024 -0500
+
+    Merge pull request #60 from JuanTobonV/hotfix
+    
+    Hotfix
+
+[33mcommit 673a37130668f4b1eb93bd9d7a80c77c7677d4e9[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Dec 14 13:24:40 2024 -0500
+
+    conecting
+
+[33mcommit d322b734a28365b1e06b7a67a8079962c95f8bee[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Dec 14 13:08:59 2024 -0500
+
+    desing
+
+[33mcommit 8e90e4614e8b5893354d4b9e7bea4584ff433c7a[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Dec 14 11:40:40 2024 -0500
+
+    connecting alex with JP
+
+[33mcommit fa83620d979041807cf1fd2820d894116c0fa278[m
+Merge: a653aee 582629d
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Dec 14 11:27:35 2024 -0500
+
+    Merge branch 'develop' into hotfix
+
+[33mcommit a653aee6be79b478679a7f18cc708386118003f4[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Dec 13 23:35:54 2024 -0500
+
+    commenting
+
+[33mcommit 582629d75e7659c434d9d0800714c50d3fe31166[m
+Merge: f53c943 25eda75
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Dec 13 23:24:29 2024 -0500
+
+    Merge pull request #57 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    Feature/hu02 consultar polizas
+
+[33mcommit 969568a88cf6c5bb87a45eb356ff3c06e9ab1aca[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Dec 13 23:23:51 2024 -0500
+
+    mergin front with back
+
+[33mcommit 25eda752321df0a0e4365e58f02017e0bb25d5c6[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Dec 13 19:10:32 2024 -0500
+
+    funcionalidad para acepar o rechazar solicitudes, añadir comentarios y cambiar estado de la solicitud
+
+[33mcommit 818cbba7e7d2e7d4b91fe961d5578b9e7e5af62a[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Tue Dec 10 21:45:00 2024 -0500
+
+    prueba de servicio de cambiar comentarios y estados de solicitudes
+
+[33mcommit 3f15caf76de3a96ae65594ac23b67072a9839da0[m
+Author: jupaortiz <juanportiz.1120@gmail.com>
+Date:   Mon Dec 9 09:41:25 2024 -0500
+
+    subiendo cambios
+
+[33mcommit f53c943036f19e2d6131e9979ba68811072223b5[m
+Merge: 8986efc 2fca59b
+Author: Jorge Luís Salazar Ramírez <jlsalaza3@gmail.com>
+Date:   Mon Dec 9 09:38:17 2024 -0500
+
+    Merge pull request #56 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Feature/hu04 admon solicitudes
+
+[33mcommit 2fca59b92f0ae08711eb99b8cf5dac9829b0209b[m
+Merge: a9d707b bd008b8
+Author: Jorge Luís Salazar Ramírez <jlsalaza3@gmail.com>
+Date:   Mon Dec 9 09:37:40 2024 -0500
+
+    Merge pull request #55 from JuanTobonV/feature/HU04_AdmonSolicitudes_ALEX
+    
+    cambios en el css  y js  de la ventana emergente
+
+[33mcommit bd008b8f735e0b8ddab661b483906e707e0255a6[m
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Sun Dec 8 19:59:11 2024 -0500
+
+    cambios realizados a la vista de la ventana emergente y a los estilos de los botones y los enunciados, cambio de botones de alerta
+
+[33mcommit 5ed129ad5f375f44015f82e385169d25a3dbf2fd[m
+Merge: bc8c510 a9d707b
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Sat Dec 7 23:03:33 2024 -0500
+
+    Merge branch 'origin/feature/HU04_AdmonSolicitudes' into 'feature/HU04_AdmonSolicitudes_ALEX'
+
+[33mcommit bc8c510d1928cc8df66ff36ecd4c4af4ad91fd14[m
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Sat Dec 7 18:47:42 2024 -0500
+
+    Modificar archivos CSS y JS para la gestión de solicitudes
+
+[33mcommit 8986efc5b8d9776ef7683a80df7ce89f71c111f7[m
+Merge: 6e4524d 95d46c4
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Dec 7 14:04:24 2024 -0500
+
+    Merge pull request #54 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    Feature/hu02 consultar polizas
+
+[33mcommit 6e4524d751be8fe3017b764cd262f3b63bc3dec3[m
+Merge: f527d7d 622f71e
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Dec 7 13:47:43 2024 -0500
+
+    Merge pull request #52 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit 622f71e7298b0065214ff130bee5d35e5fb262a6[m
+Merge: 9c9d66b f527d7d
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Dec 6 19:46:28 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 9c9d66b16bad0540aafa600de15917348906e6e5[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Dec 6 19:45:45 2024 -0500
+
+    primero: se mejora el código para mostrar las pólizas activas. segundo: en la función de cargar las pólizas disponibles, modifico la clave de pólizas disponibles a pólizas activas, con el fin de que sean iguales (por concenso del equipo de trabajo) este evento se da en el archivo controlador.js en la estructura forEach y la condición previa de la función cargar pólizas disponibles. tercero: se reestablecen las validaciones de selectores vacios en la función eliminar, porque por cambios hechos en el archivo de validaciones.js, dicha validación quedó obsoleta. cuarto: se identan los archivos de validaciones.js, controlador.jsy funciones.js. Todo esto con el fin de preparar el frontend para hacer fetch con el backend
+
+[33mcommit 95d46c4b3fc7c1aa936811fdf8c539969be52391[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Dec 6 19:44:49 2024 -0500
+
+    se soliciono bug de redireccion
+
+[33mcommit 4b29551870dac63747193185620a318cd8b1bf76[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Dec 6 18:52:45 2024 -0500
+
+     Implementacion de servicio y modificaciones : 1. se realizo el servicio de crear solicitudes, para permiter al usuario crear una solicitud de la poliza y benecio seleccionado y enviarla al administrador, 2. se hice la redirecion de la pagina selecciona tu solicitud haci la pagina ver mis solicitudes
+
+[33mcommit 3d0e88043179c326a923dad4edcf9383c2156058[m
+Merge: f2d6b44 f527d7d
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Dec 6 15:54:26 2024 -0500
+
+    Merge branch 'develop' into feature/HU02_ConsultarPolizas
+
+[33mcommit f2d6b449019ce47aa24ac8bdcb16641bb490dac5[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Dec 6 15:53:36 2024 -0500
+
+    prueba unitario:se realizaron pruebas cambiando el id quemado de los empleados para descartar bugs
+
+[33mcommit f527d7df4ef79e99a7fa00d5ff5668e4c5d6e878[m
+Merge: ebc29fd a9d707b
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Dec 6 13:59:48 2024 -0500
+
+    Merge pull request #49 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    se centra en la celda de acciones el boton con el ojo que despliega l…
+
+[33mcommit a9d707b6904f51fc85b4c2c7117b0651165ca3c6[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Dec 6 09:54:20 2024 -0500
+
+    se centra en la celda de acciones el boton con el ojo que despliega la ventana emergente, mejorando la presentación de la tabla
+
+[33mcommit 205555ac409fe031adbca6d47a1829f4180983a5[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Dec 5 19:56:47 2024 -0500
+
+    1. se comenta el import de los datos quemados  de proveedores                                                                                                         2. se aplica el método fetch, consumiendo la ruta de proveedores.                                                                                                     3. se integra la función de cargar proveedores en el selector de proveedores.                                                                                         4. se logra mostrar la lista de proveedores que se encuentra en la BBDD                                                                                               5. tener en cuenta que no se muestra la información correspondiente de cada proveedor (queda pendiente)
+
+[33mcommit ebc29fdd422cb6cc4367cad5e4811146e8a61811[m
+Merge: 48fb454 ded7ad7
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Wed Dec 4 11:28:15 2024 -0500
+
+    Merge pull request #48 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Feature/hu04 admon solicitudes
+
+[33mcommit ded7ad77653093f6d912b35c4e2db294f85572d2[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Wed Dec 4 09:24:45 2024 -0500
+
+    se modifica el frontend de la HU04 para que empiece a consumir API desde la base de datos, para ello se crean los controladores y se modifica el html y el JS del hu04
+
+[33mcommit 48fb45403a41d88821c1472980a66aba280a8ca9[m
+Merge: 22b219f ade6056
+Author: Marlon Mosquera Rivera <120336232+marlonriveram@users.noreply.github.com>
+Date:   Tue Dec 3 18:10:14 2024 -0500
+
+    Merge pull request #47 from JuanTobonV/feature/HU01_Autenticacion
+    
+    Feature/hu01 autenticacion
+
+[33mcommit ade6056033967366c3f55c357c81fc4b2689b4b3[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Tue Dec 3 17:29:24 2024 -0500
+
+    adding directions to login
+
+[33mcommit b5538c0d31844a92077cc56406a165a77fc1eab6[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Tue Dec 3 16:40:50 2024 -0500
+
+    trying implement autentication
+
+[33mcommit 9e5e52726da177a563fabf3b76563008b4524040[m
+Merge: 573d372 22b219f
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Mon Dec 2 14:27:53 2024 -0500
+
+    Merge branch 'develop' into feature/HU04_AdmonSolicitudes
+
+[33mcommit 22b219f50d584858d427239ac039d2d5726838e4[m
+Merge: 50f7b8d fa024c7
+Author: Jorge Luís Salazar Ramírez <jlsalaza3@gmail.com>
+Date:   Mon Dec 2 14:14:45 2024 -0500
+
+    Merge pull request #46 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    Feature/hu02 consultar polizas
+
+[33mcommit 573d37240abf66d0e296bf343f3a870a2bcf9785[m
+Merge: 2b5f193 50f7b8d
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Mon Dec 2 13:31:31 2024 -0500
+
+    Merge branch 'develop' into feature/HU04_AdmonSolicitudes
+
+[33mcommit 50f7b8d5b872ba6e0ee2861597e3a2ca6be4c724[m
+Merge: 6b6e473 53f36a2
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Mon Dec 2 11:01:06 2024 -0500
+
+    Merge pull request #40 from JuanTobonV/feature/HU03_ConsultaEstado
+    
+    Subiendo mi vista
+
+[33mcommit fa024c77e1a08109de6a6ea4648c173f8bbda670[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Sun Dec 1 21:48:00 2024 -0500
+
+    se eliminaron archivos relacionados con los datos quemados
+
+[33mcommit eacb638798ebfbc9ac58d610739f7108c46dbc9b[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Sun Dec 1 21:42:14 2024 -0500
+
+    Conexion Backend: se hico la conexion con el backend y se reemplazaron los datos quemados por los datos de la base de datos, falta por hacer, hacer get de la base de datos del empleado logueado y hacer un post a la base de datos a la tabla empladoBeneficos
+
+[33mcommit 6b6e4735b2b5380e04c0d1b3c6663ba4d40c837f[m
+Merge: c4f5d88 3ac4442
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sun Dec 1 11:59:51 2024 -0500
+
+    Merge pull request #44 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit c4f5d8883790d52c4575f8672f4cf1439510e693[m
+Merge: d72bfaf da8c706
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sun Dec 1 11:54:13 2024 -0500
+
+    Merge pull request #45 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Feature/hu04 admon solicitudes
+
+[33mcommit 2b5f193e3b800177644527ba7bd00a88ec32d7d9[m
+Merge: 8d44d2f da8c706
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sun Dec 1 06:14:05 2024 -0500
+
+    Merge branch 'feature/HU04_AdmonSolicitudes' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU04_AdmonSolicitudes
+
+[33mcommit da8c70603dfd31c2db43fe1f0be55418461423ea[m
+Merge: 41ca9ff 6fdb49d
+Author: Jorge Luís Salazar Ramírez <jlsalaza3@gmail.com>
+Date:   Sun Dec 1 06:12:17 2024 -0500
+
+    Merge pull request #42 from JuanTobonV/feature/HU04_AdmonSolicitudes_ALEX
+    
+    cambios en la ventana emergente de la rama feature/hu04 admon solicitudes alex
+
+[33mcommit 3ac444292407bdac9af75b8d7d92c821ca24ccd2[m
+Merge: 9459459 d72bfaf
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 29 19:43:52 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 945945974683eb393d0480e8ae9699d0510f29af[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 29 19:42:46 2024 -0500
+
+    1. se agrega la lógica para el botón eliminar: se envía una alerta tipo confirm para ejecutar la función, se validan que los selectores tengan información, se trae la lista de objetos agregados desde el local storage y se valida que esté llena, se utiliza el metodo findIndex para obtener el indice de acuerdo a la coincidencia de los datos actuales a eliminar con los que hay almacenados en el vector parseado desde local storage, si existe la coincidencia entre las dos validaciones (beneficios y pólizas al igual que la validación de agregar), se aplica el método splice para borrar el objeto que le corresponda ese indice, se procede a actualizar el localstorage con el nuevo arreglo o lista, por ultimo se limpian los selectores y se refresca la página
+
+[33mcommit d72bfaf84d8d9ae3912ba07128c7a27cd91c20c6[m
+Merge: 7cdb124 b677b5c
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 29 14:17:16 2024 -0500
+
+    Merge pull request #43 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit b677b5c5ebc8c51555b4180e4bfc9bc0f37bc7d2[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 29 13:59:19 2024 -0500
+
+    se valida que un mismo beneficio se agregue más de una vez si corresponde a la misma póliza
+
+[33mcommit 6fdb49d9347304a978c46ee2fc71725dd40c2cef[m
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Fri Nov 29 11:12:21 2024 -0500
+
+    Descripción de los cambios realizados
+
+[33mcommit fb4cd3dfb8cd708310d658f929a412397dea401d[m
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Fri Nov 29 10:54:40 2024 -0500
+
+    Copiar archivos de origin/feature/HU04_AdmonSolicitudes a feature/HU04_AdmonSolicitudes_ALEX
+
+[33mcommit cfc373a4da1da74653f43d667fb9d29dde15fc28[m
+Merge: 50e5722 7cdb124
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 25 18:11:33 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 50e5722d30f56f0136215f44ac4f2e74679cdcee[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 25 18:11:02 2024 -0500
+
+    update
+
+[33mcommit 53f36a29664060e5c3f22c1af85376d9dc0d1735[m
+Author: jupaortiz <juanportiz.1120@gmail.com>
+Date:   Mon Nov 25 14:49:49 2024 -0500
+
+    Subiendo mi vista
+
+[33mcommit 448e3f0260a7c5f8de34cdc9610abd088f05e0e4[m
+Author: Giovalexnni <giovalexnni@gmail.com>
+Date:   Mon Nov 25 13:25:01 2024 -0500
+
+    Cambios realizados a la ventana emrgente
+
+[33mcommit 7cdb12493b5490217135de15d39fdc6a7bc8cd4b[m
+Merge: 6dd28af d86751e
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Mon Nov 25 10:02:05 2024 -0500
+
+    Merge pull request #38 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit 8d44d2f8088f26a4c94ed72a06a70ea6cc4144f1[m
+Merge: 41ca9ff 6dd28af
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Mon Nov 25 09:28:15 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU04_AdmonSolicitudes
+
+[33mcommit d86751ed1b58519b82fa86234646ad62dcd72088[m
+Merge: e3763a9 6dd28af
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 25 06:12:22 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit e3763a90d37ebeb0e2e216deb51af78f55e9997c[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 25 06:12:05 2024 -0500
+
+    se soluciona bug de guardado del contenido de los selectores en el local storage, guardando correctamente la información que el amin seleccione
+
+[33mcommit 6dd28afbf74b5291d887756b3d00903483bdeb27[m
+Merge: b026c71 5b8f856
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sun Nov 24 21:19:35 2024 -0500
+
+    Merge pull request #37 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit 5b8f8569e0bd85e3c2fe079f275c8228d88ec8c2[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sun Nov 24 20:04:34 2024 -0500
+
+    se muestra los datos tanto en los inputs como en los selectores de acuerdo al proveedor seleecionado, se soluciona bug de validaciones, se exporta la data para simular los datos en el controlador, para que posteriormente desde validaciones se capturen y se almacenen en un arreglo al localstorage, permitiendo su peristencia; pendiente que no se está almacenando el contenido de los selectores, solamente el value
+
+[33mcommit 5b16ed70150d2b35419132d5f63a54aa6ebdc186[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sun Nov 24 14:43:55 2024 -0500
+
+    mejora de selects
+
+[33mcommit 08f1ef5145b1f471ca44967ecb36debe72580986[m
+Merge: 16b8b4d b026c71
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sun Nov 24 12:56:55 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 16b8b4da2c8c8038d91134cd7f13459a744c99f7[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sun Nov 24 12:56:26 2024 -0500
+
+    se completa las validaciones del formulario, se agrega en controlador las funciones correspondientes a cada selector, mostrando en ellas las diferentes opciones de acuerdo al proveedor
+
+[33mcommit 9b02779cf42b57c1d096846f1cb44ac8a6db803a[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sat Nov 23 19:10:01 2024 -0500
+
+    se dibujan los proveedores de data en el selector de proveedores de la vista con sus respectivas pólizas activas
+
+[33mcommit b026c71d48f2bcee1f60c94f8dd14172987c5092[m
+Merge: 8d41e19 bff5f65
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Nov 23 16:21:34 2024 -0500
+
+    Merge pull request #36 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    se agrego la funcion a los select de ser requeridos y se añadio a la …
+
+[33mcommit bff5f654eb1d19a915f123c445bf413c754d8381[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Sat Nov 23 16:15:02 2024 -0500
+
+    se agrego la funcion a los select de ser requeridos y se añadio a la solictud los campos de nombre empleado,area de trabajo y estado solicitud por defecto en Proceso
+
+[33mcommit 41ca9fffceeda91a3b6a4d970f1a908d488327be[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 23 16:03:08 2024 -0500
+
+    se modidica la etiqueta del comentario de la ventana emergente a un textarea
+
+[33mcommit be759b9c1ffdd892e5740b1b144a5fa64a6cd068[m
+Merge: bbfb49a 8d41e19
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sat Nov 23 14:06:40 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit bbfb49ab6594d79a6b220111b82c375ccbaa65fc[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Sat Nov 23 14:06:21 2024 -0500
+
+    maquetando la lógica con js, se agrega archico de controlador y proveedores para quemar los datos y obtenerlos desde el controlador, para mostrarlos en el index. Además se aplica en el archivo de validaciones para recibir los datos del formulario del index y conservarlos en un arreglo, almacenado en el LocalStorage
+
+[33mcommit 8d41e1949176134a42dcddcdafaede865b5f110c[m
+Merge: a6cf8c8 799d498
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Nov 23 13:16:03 2024 -0500
+
+    Merge pull request #35 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    se agrego el hover a los botones
+
+[33mcommit a6cf8c89ca7b566351033db73d734b960dc7a448[m
+Merge: 5808e63 970e4de
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sat Nov 23 11:33:31 2024 -0500
+
+    Merge pull request #34 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Se modifica la ventana emergente para que incorpore las vistas desplegables
+
+[33mcommit 78217ef7bbb4bcf28ecc9c3a930a909ea1babc2f[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 23:05:50 2024 -0500
+
+    maquetación de data y controladores
+
+[33mcommit 138e5722d760b42f26de428f04f3fc2f50d6ba2e[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 21:36:03 2024 -0500
+
+    maquetación de data y controladores
+
+[33mcommit 55d5a0c2d759466d5cfe2113bfd507495070ef9c[m
+Merge: 8f78ebd 5808e63
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 21:27:51 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 970e4dee05303092270bc986f30778ad1d287a00[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Nov 22 16:08:42 2024 -0500
+
+    Se modifica la ventana emergente para que incorpore las vistas desplegables y se incorporan los campos con la información que contempla el diseño con la pestaña Información del empleado y al interior de esta pestaña los campos nombre y area y en la pestaña información de la solicitud se muestran los campos fecha, poliza y beneficio. adicionalmente se crea el campo para ingresar los comentarios
+
+[33mcommit 799d4983fae53cedce2179e60ffe53ee1c9cf6ac[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 22 14:58:50 2024 -0500
+
+    se agrego el hover a los botones
+
+[33mcommit 5808e634e904a5e09735e1970e0af404e216167f[m
+Merge: f2c2d8e 2735439
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 22 13:12:50 2024 -0500
+
+    Merge pull request #32 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    se elimina las lineas 7 a 9 del archivo css de la vista admonsoliciyudes
+
+[33mcommit 27354394aae5c640a03d9ae1d097d7724f309f82[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Nov 22 13:11:13 2024 -0500
+
+    se elimina las lineas 7 a 9 del archivo css de la vista admonsoliciyudes
+
+[33mcommit 8f78ebd38a8d136668171b4dc1ce318c0f4a4f4a[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 13:09:32 2024 -0500
+
+    GIT PULL ORIGIN DEVELOP
+
+[33mcommit 6a3faf46cb082d6236518767f7ca1427f998459e[m
+Merge: aed1074 f2c2d8e
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 13:09:03 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit aed1074e99b1bab694bbe0356f7baaac229bfe0d[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 13:01:56 2024 -0500
+
+    validación de selectores, notificación de agregar, funcionalidad de limpiar selectores
+
+[33mcommit f2c2d8edd33578af6d114e4f41344d1c851d5c38[m
+Merge: 1f89190 f97bd8b
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 22 12:57:39 2024 -0500
+
+    Merge pull request #31 from JuanTobonV/feature/HU01_Autenticacion
+    
+    Feature/hu01 autenticacion
+
+[33mcommit 65936f5c86c6916271549d15848694ac10caf1ab[m
+Merge: 1e06945 1f89190
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 12:51:47 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 1e069456b676b67877881d7112f5d3dcd92a3c4c[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 12:51:07 2024 -0500
+
+    se modifica ruta de redirección a HU04
+
+[33mcommit 1f8919042cae85420f751dc49d5bc30110062b49[m
+Merge: 04dd5c2 65cb823
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 22 12:37:18 2024 -0500
+
+    Merge pull request #30 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Feature/hu04 admon solicitudes
+
+[33mcommit 65cb823535fbead82af1784963a501d4e128a462[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Nov 22 12:34:10 2024 -0500
+
+    se hace correccion del padding en el .header__btn
+
+[33mcommit 3c28747f62dfc437cb1cb3532b92050b5b51b3ba[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 11:40:48 2024 -0500
+
+    validación para la selección de proveedores, polixas y beneficios
+
+[33mcommit e1fe6c7417a0edf15bf106e447c24288767a0a8f[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Fri Nov 22 10:51:38 2024 -0500
+
+    se aplica js para mostrar el selector de beneficios al cambiar el selector de pólizas
+
+[33mcommit 25dbf1bde538587a59add1cd4fb7532d9d6ca7c7[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Nov 22 09:54:50 2024 -0500
+
+    deshice la modificación al archivo de estilos de marlon y elimine una función no definida de la ventana emergente que esta trabajando alex que me estaba generando un error por falta de definición
+
+[33mcommit 04dd5c2a68d561c3d2a09cb24f6ae9e26ab25cab[m
+Merge: d235b3f 380cb57
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Thu Nov 21 20:25:18 2024 -0500
+
+    Merge pull request #29 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit 380cb571b597646b995414e7659b6d075a4a0b92[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Nov 21 20:21:42 2024 -0500
+
+    corrección de direccionamiento a vista ver solicitudes
+
+[33mcommit f524186926b9eba9900725368e9f79e3aebe1050[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Nov 21 18:20:54 2024 -0500
+
+    se aplica hover a los botones, se agrega redirección la HU02 de ver polizas, de modifica el border bottom de la vista actual
+
+[33mcommit 38842a739bfe6b4d21742083387a0c806328b88d[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Thu Nov 21 17:37:46 2024 -0500
+
+    se ajusta el tamaño del boton cerrar y el background de los ojos que llevan a ver mas detalle
+
+[33mcommit 0bab4224ddef77fa411f33b217d1582d21d5fdd9[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Thu Nov 21 17:00:01 2024 -0500
+
+    se le cambia el nombre al html de la HU04 de vista_HU04.html a AdmonSolicitudes.html para que quede en armonia con los otros view. adicionalmente se habilita el link que lleva desde esta vista a la vista de admon polozas, ajustando el estilo de estos link en la hoja de estilos para que quede uniforme como estaba antes de hacer los enlaces. adicionalmente la hoha de estilos tambien se renombra y se le pone AdmonSolicitudes.css
+
+[33mcommit eb2f70be74bcf18488ed20f0c6401d15e8633588[m
+Merge: cd4d42f d235b3f
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Thu Nov 21 16:34:31 2024 -0500
+
+    Merge branch 'develop' into feature/HU04_AdmonSolicitudes
+
+[33mcommit cd4d42f98ff667e29fe60b30614e4ab02f50a198[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Thu Nov 21 16:32:02 2024 -0500
+
+    se ajustan los efectos y colores del boton cerrar de la pagina principal de admon solicitudes
+
+[33mcommit 4ae39f6ab05d4aeb91f93c41568d17e0c65fffdd[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Nov 21 15:49:00 2024 -0500
+
+    responsive del encabezado para pantallas grandes
+
+[33mcommit f68757aaed2b4c7734d35de111127f0ef772eb63[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Nov 21 13:53:54 2024 -0500
+
+    se modifica el diseño de los botones
+
+[33mcommit 8a0ab7235a6ae11f5ca5779af7eecab9cb07d5e5[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Thu Nov 21 11:02:24 2024 -0500
+
+    se corrige review del último PR, se hace adaptabilidad para más dispositivos, se le agrega pseudoclases a los botones
+
+[33mcommit f97bd8b82a4d832653e57878ba7720af1b12f162[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Wed Nov 20 21:54:06 2024 -0500
+
+    adding animation index
+
+[33mcommit da651a9396057eb861fa2405e02836b148d01419[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Wed Nov 20 21:28:25 2024 -0500
+
+    changes on script vista and authenthication
+
+[33mcommit 917c3cc113b336cc78f15e29521c593746ff093a[m
+Merge: 6d76a1e 3b1e7d2
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Wed Nov 20 20:29:53 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit 6d76a1e581c3364b1fbb471f12d96f0af0fcc281[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Wed Nov 20 20:27:00 2024 -0500
+
+    se modifica el border de la pestaña administrar pólizas, se modifican los inputs que sólo muestren información, se hace responsive para móviles, tablets y ordenadores
+
+[33mcommit 3b1e7d2ed94eddc716e17b0db7d34882657725b5[m
+Merge: d235b3f b7d0126
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Wed Nov 20 19:44:53 2024 -0500
+
+    Merge pull request #21 from JuanTobonV/feature/HU01_Autenticacion
+    
+    adding styles when an input is not used and error message.
+
+[33mcommit b7d012644a51487031e8c3f2e2e0506ca9e1b711[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Wed Nov 20 19:40:29 2024 -0500
+
+    adding styles when an input is not used and error message.
+
+[33mcommit a459cb482ef5aaf38199b86f057c9da44ff9659b[m
+Merge: d04a360 d235b3f
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 20:50:51 2024 -0500
+
+    Merge branch 'develop' of https://github.com/JuanTobonV/Proyecto-Integrador into feature/HU05_AdmonUpdate
+
+[33mcommit d04a3602e3498fc4c1ffcb1da4503fe5c9115e82[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 20:50:13 2024 -0500
+
+    se completa la vista
+
+[33mcommit d235b3fc4de9b9dbc1596f3db4dcb48032013731[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 18 19:04:27 2024 -0500
+
+    fixing directories
+
+[33mcommit 1352a594e7c7ac62e185178792ebcc6b699f2a3d[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 18 17:58:34 2024 -0500
+
+    fixing link when user is admin
+
+[33mcommit 88f6ec2d38c30309156e4804d26a99108242a2aa[m
+Merge: 6257430 ca1177a
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Mon Nov 18 15:33:53 2024 -0500
+
+    Merge pull request #19 from JuanTobonV/feature/HU05_AdmonUpdate
+    
+    Feature/hu05 admon update
+
+[33mcommit ca1177a03dacd3c05b0dd8c8d83d1a5c789889fa[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 15:31:35 2024 -0500
+
+    cambio de id boton cerrar sesión
+
+[33mcommit 0bb594a754d3126d23830edb3637aa53b24002aa[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 15:19:37 2024 -0500
+
+    cambio de id boton cerrar sesión
+
+[33mcommit 0d7f3033d577dbeab550f69787d2fbf3975fffee[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 15:09:36 2024 -0500
+
+    una vez más
+
+[33mcommit fd30d1dcfb0938f0f8145ab83a0fcf662e13256e[m
+Author: Luis-Ospino <luisospinodev@gmail.com>
+Date:   Mon Nov 18 14:23:01 2024 -0500
+
+    maquetación de vista principal HU05
+
+[33mcommit c57fcd5171a29522a5a7ca756516bfb70215aab4[m[33m ([m[1;31morigin/feature/HU04_AdmonSolicitudes[m[33m)[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Mon Nov 18 13:43:43 2024 -0500
+
+    se actualiza boton de cerrar
+
+[33mcommit 625743044837d35ac07b144383735b4a607d1432[m
+Merge: a654e31 c93afda
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Mon Nov 18 11:12:27 2024 -0500
+
+    Merge pull request #15 from JuanTobonV/feature/HU04_AdmonSolicitudes
+    
+    Feature/hu04 admon solicitudes
+
+[33mcommit c93afda975d355989f0438924365a287a0597a19[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Mon Nov 18 08:49:44 2024 -0500
+
+    se arregla el error de la ventana emergente, permitiendo que esta funcione y que a la vez se jale el header y footer diseñados para todos los views
+
+[33mcommit a654e313cb8317123b6ed4db5da9cb664f574d67[m
+Merge: 57fd0ad bfa20e4
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 22:25:51 2024 -0500
+
+    Merge pull request #11 from JuanTobonV/feature/HU01_Autenticacion
+    
+    adding message error if inputs are empty
+
+[33mcommit bfa20e47fab233db14846e39170c15abd3bfbe22[m[33m ([m[1;31morigin/feature/HU01_Autenticacion[m[33m)[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 22:05:21 2024 -0500
+
+    adding message error if inputs are empty
+
+[33mcommit 57fd0ad3b41b35b46d3c248e50f4efa88e3ae62d[m
+Merge: b0aa09c eef6201
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 14:45:33 2024 -0500
+
+    Merge pull request #8 from JuanTobonV/feature/HU01_Autenticacion
+    
+    Agregando funcionalidad al botón 'Cerrar sesión', estandarizando Tipos de documento y agregando roles a los usuarios
+
+[33mcommit eef6201a8096ea86f800e59b4b2a912a536a9809[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 14:42:17 2024 -0500
+
+    fixing usuarios
+
+[33mcommit 6baff961d142cf7daaa64875ebe6fd2e662beaf6[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 14:40:09 2024 -0500
+
+    fixing usuarios
+
+[33mcommit aff069a29b20c19e961a0af2fb98c2ea8f73e242[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 14:26:09 2024 -0500
+
+    adding styles to inputs
+
+[33mcommit aee094a939273c3e788096f48d08ce6869b652e2[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 13:54:55 2024 -0500
+
+    adding 'cerrar sesion' button
+
+[33mcommit 7b8d4a05c66a2a723919a3da64d6c5b0593d25e7[m
+Merge: 192e9d6 1ee9bc2
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sun Nov 17 00:00:31 2024 -0500
+
+    adding changes of user model
+
+[33mcommit 192e9d6a85d6f23f93b2bad64e44173e5838e4eb[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Nov 16 21:35:28 2024 -0500
+
+    implementing first version of autentication
+
+[33mcommit c455539821aa5eec4803d1ae69898e1a09e0642b[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 16 20:01:12 2024 -0500
+
+    se arregla para que cargue el header y el footer, pero se deconfigura la ventana emergente deja de funcionar la funcion que carga la ventana emergente
+
+[33mcommit b80a23f206f846c9220d3372fc2bc0d309038f23[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Sat Nov 16 18:55:31 2024 -0500
+
+    beggining autenticaction controller
+
+[33mcommit 09569efb84f852729cfed75d30ebb140eec5b57d[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 16 16:29:35 2024 -0500
+
+    se elimina un view que se tenia de muestra y ya no se necesita
+
+[33mcommit 1ba8f59f3bfad6243dae3473cf67f029c10e5d68[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 16 11:04:56 2024 -0500
+
+    se actualiza colores boton para abrir ventana emergente
+
+[33mcommit e025731afc1a59b07a2c0a87cbbb7447f9458dbb[m
+Merge: e2ded30 b0aa09c
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 16 10:44:21 2024 -0500
+
+    Merge branch 'develop' into feature/HU04_AdmonSolicitudes
+    "actualizo las otras vistas que no son mias"
+
+[33mcommit e2ded307a487b566a210e5b930f2e70ec2c06fd8[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Sat Nov 16 10:36:43 2024 -0500
+
+    se actuliza estilos
+
+[33mcommit 1ee9bc2ed60e771385b24ade3563cedbca40782e[m[33m ([m[1;31morigin/feature/HU02_ConsultarPolizas[m[33m)[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 22:31:42 2024 -0500
+
+    se aplicaron los cambios al diseño, linea separadora, color de placehoder y se añadio la propiedad rol a los usuarios
+
+[33mcommit b0aa09cc5294e1bdc4395a1676d0af4a784c3947[m
+Merge: b5f644d 54ce3b0
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 15 21:01:36 2024 -0500
+
+    Merge pull request #7 from JuanTobonV/feature/HU01_Autenticacion
+    
+    Feature/hu01 autenticacion
+
+[33mcommit b5f644d3f6a19a1ef9f0e312c59c6e91f3ac55dd[m
+Merge: 5127451 5bea13e
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 15 21:00:00 2024 -0500
+
+    Merge pull request #6 from JuanTobonV/feature/HU02_ConsultarPolizas
+    
+    Feature/hu02 consultar polizas
+
+[33mcommit 54ce3b097c76f27c38e92b008d99867b31263acb[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Nov 15 20:59:02 2024 -0500
+
+    deleting modelos folder
+
+[33mcommit 5bea13ef457ebd15f6b5db7d944ddd1e542c9f4d[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 20:52:56 2024 -0500
+
+    se creo la funcionalidad de fuardar las polizas y beneficons que seleccione el usuario, y la fecha y hora en que se realizo
+
+[33mcommit 9650e1be364a44a5c974221579f9d3b98d40796a[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 17:24:23 2024 -0500
+
+    se puse que los selecc de formularo sea obligatorio diligenciarlos
+
+[33mcommit 4fc3ccc25725ea84d5264e8c5dbf0359fae2571f[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 16:57:39 2024 -0500
+
+     se creo la carpeta data para los datos quemados y se metio el archivo usuarios y beneficos
+
+[33mcommit f6dd6b02d09204d7c45aa4cdb4e5a373c2411cff[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 16:56:28 2024 -0500
+
+     se creo la carpeta data y añadio la funcionalidad para el boton de enviar datos, falta añadir la que pagina hace la redireccion
+
+[33mcommit fcb55142cf45af2080dc3a65df989126f9fbd549[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Fri Nov 15 16:09:50 2024 -0500
+
+    se adiciona primera versión de la vista de admon de solicitudes donde se incluye tabla con la lista de solicitudes y una funcionalidad de informacion adicional que despliega una ventana emergente
+
+[33mcommit a4450a908d1e164e1f8521c7c2f94561540960a9[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Fri Nov 15 16:06:20 2024 -0500
+
+    se creo la funcionalidad de selecionar polizas asociadas a un usuario y los beneficos asociadas a esta
+
+[33mcommit 8373582a349ff36b06086ae40af5f0a23a85fe9b[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Thu Nov 14 20:22:54 2024 -0500
+
+     modificación: se relaizo un espaciado entre el formulario y el header y footer
+
+[33mcommit 2739fd9175de27bd0c8f23589e7561a10a310ef3[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Thu Nov 14 19:35:16 2024 -0500
+
+    se integro el header y el footer a la vista ver polizas y beneficios
+
+[33mcommit 0e6b2c793d521d1cb431d0e352b73b19b5b7c72d[m
+Merge: 601e5a5 5127451
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Thu Nov 14 19:24:21 2024 -0500
+
+    Merge branch 'develop' into feature/HU02_ConsultarPolizas
+
+[33mcommit cef50b77c211307579b676000fac886f9e3f253a[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 18:24:32 2024 -0500
+
+    styling select inputs
+
+[33mcommit 74e80493c88b233dd4ba21e158cc5039470780ad[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 17:54:35 2024 -0500
+
+    styling sign up
+
+[33mcommit 601e5a5c6d0fbbb174bb31aa4ae6a7998c7cca83[m
+Author: marlon <marlon.mosquerar@gmail.com>
+Date:   Thu Nov 14 17:25:48 2024 -0500
+
+    vista de solicitar beneficios terminada
+
+[33mcommit 5127451bc3f5be390f0fa695b2c97f18f0d86e90[m
+Merge: 2e51124 e23b723
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 17:09:54 2024 -0500
+
+    Merge pull request #5 from JuanTobonV/feature/HU01_Autenticacion
+    
+    index complete
+
+[33mcommit e23b7230036dbb3bb945174947bf05a1fdfee20b[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 17:09:12 2024 -0500
+
+    index complete
+
+[33mcommit 2e5112400f20c95f143752741917b4a551094fb9[m
+Merge: ed8a2b8 56c6341
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 15:17:13 2024 -0500
+
+    Merge pull request #4 from JuanTobonV/feature/HU01_Autenticacion
+    
+    implementing general footer and header
+
+[33mcommit 56c63410242b6965bc15e0badeaacbd18a27b643[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 15:16:05 2024 -0500
+
+    implementing general footer and header
+
+[33mcommit 9a7ab18f38769fc17323dd42ae1959b5877c9c83[m
+Author: jlsalaza3 <jlsalaza3@gmail.com>
+Date:   Thu Nov 14 14:34:29 2024 -0500
+
+    se crea rama HU04 ModuloAdmonSolicitudes y se crean carpeta controllers_HU04 carpeta modelos_HU04 y carpeta vistas_HU04
+
+[33mcommit ed8a2b8c15dfacde1e75f24d794006fd4b158527[m
+Merge: 5bfd192 d9db678
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 08:42:39 2024 -0500
+
+    Merge pull request #3 from JuanTobonV/feature/HU01_Autenticacion
+    
+    adding general assets, recursos folder and vistas_HU01
+
+[33mcommit d9db678f4f7a5ff88c1958f80a0188f0f4191c21[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Thu Nov 14 08:41:35 2024 -0500
+
+    adding general assets, recursos folder and vistas_HU01
+
+[33mcommit 5bfd192edfd9f668d97ed84cd6556e86ca2712e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 99c6dbb 6bd0329
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 11 11:34:38 2024 -0500
+
+    Merge branch 'main' of https://github.com/JuanTobonV/Proyecto-Integrador into develop
+
+[33mcommit 6bd0329bc6801282da10979ae884338506c6ad44[m
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Mon Nov 11 01:31:16 2024 -0500
+
+    Update README.md
+
+[33mcommit 99c6dbbdf1bec8fdbec81da91e3079ccea9c342d[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 11 01:11:16 2024 -0500
+
+    project structure
+
+[33mcommit 551a5b2ebb4ed526b020d5042d99e77ec188f0b8[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 11 01:10:21 2024 -0500
+
+    project structure
+
+[33mcommit 09fa0e78e29d6e30e295801207ebb629f8711832[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Mon Nov 11 01:06:34 2024 -0500
+
+    project structure
+
+[33mcommit 8645d170f74527134a95f6122e7c7ceb92d85f80[m
+Merge: 998a78a 98eb026
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 18:18:23 2024 -0500
+
+    Merge pull request #2 from JuanTobonV/develop
+    
+    Merge pull request #1 from JuanTobonV/main
+
+[33mcommit 98eb026a2a74a29491386e8dd700ed01ff91920f[m
+Merge: 6006a70 998a78a
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 18:16:52 2024 -0500
+
+    Merge pull request #1 from JuanTobonV/main
+    
+    Create README.md
+
+[33mcommit 998a78ad4bf5cd3456f4c72f583e79a556cff11e[m
+Author: Juan José Tobón Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 18:15:55 2024 -0500
+
+    Create README.md
+
+[33mcommit 6006a70a87ab9a7e76e7ae17ef7936cdb14dbc82[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 17:58:38 2024 -0500
+
+    fixing structure
+
+[33mcommit 9cecd15abb83ec78d6e381bb8a040b718327f4c8[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 17:55:09 2024 -0500
+
+    fixing structure
+
+[33mcommit c135fddba5ec45fb0000bcd284ed74e47ccd628e[m
+Author: Juan Villa <jujotovil@gmail.com>
+Date:   Fri Nov 8 17:53:55 2024 -0500
+
+    first commit
